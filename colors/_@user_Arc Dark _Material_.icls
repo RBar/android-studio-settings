@@ -4,13 +4,13 @@
     <property name="created">2023-03-21T06:37:42</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2022.1.1.20</property>
-    <property name="modified">2023-03-23T22:21:58</property>
+    <property name="modified">2023-04-08T10:44:13</property>
     <property name="originalScheme">Arc Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
